@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print ("G2.1a")
+        print ("G2.1b")
     }
 
 
